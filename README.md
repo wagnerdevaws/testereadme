@@ -28,7 +28,7 @@
 
 ## :bookmark: About
 
-** Happy ** is a web and mobile app designed to help connect people to orphanages. This application offers people the possibility to register new orphanages so that they can be visited. With that, people can help those most in need.
+**Happy** is a web and mobile app designed to help connect people to orphanages. This application offers people the possibility to register new orphanages so that they can be visited. With that, people can help those most in need.
   
 This project was developed with the educational purpose all orphanages elaborated in this example are fictitious.
 
