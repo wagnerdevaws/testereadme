@@ -26,15 +26,13 @@
 <p align="center">
   <img alt="design project" width="650px" src="./.github/happylogo.png" />
 <p>
-<h3 align="center">
-Try aplication: https://happywagner.tk
-</h3>
-
 
 
 ## :airplane: Appication
 
-Try aplication: https://happywagner.tk
+<h3 align="center">
+   Try aplication: https://42happy.tk
+</h3>
 
 ## :bookmark: About
 
