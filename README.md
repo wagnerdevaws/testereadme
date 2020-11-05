@@ -25,9 +25,9 @@
 <p align="center">
   <img alt="design project" width="650px" src="./.github/happylogo.png" />
 <p>
-<h2 align="center">
+<h3 align="center">
 Try aplication: https://happywagner.tk
-</h2>
+</h3><br>
 ## :bookmark: About
 
 **Happy** is a web and mobile app designed to help connect people to orphanages. This application offers people the possibility to register new orphanages so that they can be visited. With that, people can help those most in need.
