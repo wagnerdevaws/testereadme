@@ -113,6 +113,6 @@ This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for
 
 ## :airplane: Appication
 
-<2 align="center">
+<h2 align="center">
  Try aplication: https://42happy.tk
-</2>
+</h2>
