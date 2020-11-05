@@ -30,9 +30,7 @@
 
 ## :airplane: Appication
 
-<h3 align="center">
-   Try aplication: https://42happy.tk
-</h3>
+ Try aplication: https://42happy.tk
 
 ## :bookmark: About
 
