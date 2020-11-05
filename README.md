@@ -28,11 +28,7 @@
 <p>
 
 
-## :airplane: Appication
 
-<p align="center">
- Try aplication: https://42happy.tk
-</p>
 
 ## :bookmark: About
 
@@ -114,3 +110,9 @@ This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for
 
 ---
 <sup>Project developed with the tutorship of [Diego Fernandes](https://github.com/diego3g), by [Rocketseat](rocketseat.com.br).</sup>
+
+## :airplane: Appication
+
+<2 align="center">
+ Try aplication: https://42happy.tk
+</2>
